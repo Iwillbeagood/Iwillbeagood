@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋   
 
-<!--
-**Iwillbeagood/Iwillbeagood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 💻   **I'm a Android Develover**     
 
-Here are some ideas to get you started:
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwillbeagood&hide=issues,stars&count_private=true&show_icons=true)  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills 
+
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+### 👩🏻‍💻 Tech Blog
+
+<a href="https://everyday-develop-myself.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://everyday-develop-myself.tistory.com/"/></a>
+<!-- 
+New Post!
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Iwillbeagood)](https://velog-readme-stats.vercel.app/api/redirect?name=yuuuzzzin) -->

@@ -2,8 +2,6 @@
 
  - 💻   **I'm a Android Develover**     
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwillbeagood&hide=issues,stars&count_private=true&show_icons=true)  -->
-
 ### 🛠 Skills 
 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -14,4 +12,4 @@
 <!-- 
 New Post!
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Iwillbeagood)](https://velog-readme-stats.vercel.app/api/redirect?name=yuuuzzzin) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwillbeagood)](https://github.com/anuraghazra/github-readme-stats)

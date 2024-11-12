@@ -9,5 +9,4 @@
 </a>
 
 <h3>📊 GitHub 통계</h3>
-<p>저의 GitHub 활동 통계를 확인하세요:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwillbeagood" alt="Top Langs"/>
